@@ -23,6 +23,6 @@
     "pg": "^7.14.0"
   },
   "devDependencies": {
-    "node": "^1.19.3"
+    "nodemon": "^1.19.3"
   }
 }
